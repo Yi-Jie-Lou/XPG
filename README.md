@@ -1,6 +1,12 @@
 
-<h4 align="center"> Selected color function with keyboard</h4>
-<h4  align="center" >
+<h3 align="center"> 
+
+Customize your keyboard buttons with colors.
+
+
+
+</h3>
+<h3  align="center" >
 <a href="https://yi-jie-lou.github.io/xpg/" >Link</a>
 </h4>
 
