@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xpg/static/css/main.e6f2ba99.css",
+    "main.js": "/xpg/static/js/main.c516b54a.js",
+    "index.html": "/xpg/index.html",
+    "main.e6f2ba99.css.map": "/xpg/static/css/main.e6f2ba99.css.map",
+    "main.c516b54a.js.map": "/xpg/static/js/main.c516b54a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6f2ba99.css",
+    "static/js/main.c516b54a.js"
+  ]
+}
