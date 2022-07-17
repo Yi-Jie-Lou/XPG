@@ -1199,10 +1199,10 @@ function App() {
           </div>
           <div
             className="key--letter key--span4"
-            data-key="13"
+            data-key="13-R"
             style={{
               gridArea: "5 / 13 / 7 / 17",
-              backgroundColor: activeKey === "13" ? "gray" : "#333",
+              backgroundColor: activeKey === "13-R" ? "gray" : "#333",
             }}
             onClick={(e) => {
               setIsSelected(e.currentTarget);
