@@ -1164,7 +1164,7 @@ function App() {
             data-key="96"
             style={{
               gridArea: "6 / 1 / 7 / 9",
-              backgroundColor: activeKey === "99" ? "gray" : "#333",
+              backgroundColor: activeKey === "96" ? "gray" : "#333",
             }}
             onClick={(e) => {
               setIsSelected(e.currentTarget);
